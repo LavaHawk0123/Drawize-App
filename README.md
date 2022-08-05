@@ -1,6 +1,10 @@
-# Drawize-App
-The repository contains a Flask Drawing Recognition Application based on CNN model. It aims to deploy a Deep Learning Model using Flask.
+# Flask-Cnn-Recognition-App
+Flask Drawing Recognition Application based on CNN model
 
-### Interface
+This project is related with this article in towardDataScience : 
+https://towardsdatascience.com/develop-an-interactive-drawing-recognition-app-based-on-cnn-deploy-it-with-flask-95a805de10c0
 
-![cnn-app](https://user-images.githubusercontent.com/75236655/183000300-50be56e3-26be-4892-b9f3-3c5c694cfd87.gif)
+It aims to deploy a Deep Learning Model using Flask.
+
+Hugo Mallet
+
