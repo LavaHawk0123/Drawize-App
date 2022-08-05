@@ -1,5 +1,5 @@
 # Drawize-App
-The repository contains a Drawing Recognition Application based on CNN model. It aims to deploy a Deep Learning Model using Flask pythoin API.
+The repository contains a Drawing Recognition Application based on CNN model. It aims to deploy a Deep Learning Model using Flask python API.
 
 ### To run the app : 
 ```
